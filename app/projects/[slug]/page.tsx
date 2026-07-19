@@ -28,7 +28,7 @@ export default async function ProjectDetailPage({
         <div className="mx-auto max-w-3xl">
           <Link
             href="/projects"
-            className="text-xs text-[#8593A6] hover:text-[#E7ECF2] transition-colors"
+            className="text-xs text-[#8593A6] hover:text-[#5EEAD4] transition-colors "
           >
             ← All projects
           </Link>
@@ -45,7 +45,7 @@ export default async function ProjectDetailPage({
           </div>
 
           {project.tag && (
-            <p className="mt-6 text-xs text-[#5EEAD4]">{project.tag}</p>
+            <p className="mt-6 text-xs text-[#8593A6]">{project.tag}</p>
           )}
 
           <h1 className="mt-1 text-3xl font-extrabold tracking-tight text-[#E7ECF2] sm:text-4xl">

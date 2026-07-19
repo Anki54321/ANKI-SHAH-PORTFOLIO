@@ -18,7 +18,7 @@ export default function ProjectsPage() {
             ← Back to home
           </Link>
 
-          <p className="mt-6 text-xs font-extrabold tracking-widest text-[#8593A6]">
+          <p className="mb-6 text-xl font-extrabold tracking-widest text-[#E7ECF2]">
             ALL PROJECTS
           </p>
 
@@ -26,7 +26,6 @@ export default function ProjectsPage() {
             {projects.map((item) => (
               <div
                 key={item.title}
-                className="rounded-xl border border-white/10 p-5 transition-all duration-300 hover:border-[#5EEAD4]/40 hover:bg-white/2"
               >
                 <ProjectCard item={item} />
               </div>

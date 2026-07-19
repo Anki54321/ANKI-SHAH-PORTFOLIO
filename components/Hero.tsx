@@ -8,12 +8,11 @@ export default function Hero() {
     <section id="top" className="bg-[#0B0F14] px-6 pt-16 pb-14">
       <div className="mx-auto max-w-3xl">
         {/* <p className="fade-up fade-up-1 text-[15px] text-[#8593A6]">{profile.location}</p> */}
-
-        <h1 className="fade-up fade-up-2 mt-3 text-5xl font-extrabold tracking-tight text-[#E7ECF2] sm:text-6xl">
+        <h1 className="fade-up fade-up-2 mt-3 text-5xl font-extrabold tracking-tight text-white sm:text-6xl">
           {profile.name}
         </h1>
 
-        <p className="fade-up fade-up-3 mt-4 text-lg text-[#B8C2CE]">
+        <p className="fade-up fade-up-3 mt-4 text-lg text-[#5EEAD4]">
           {profile.role} · {profile.subrole}
         </p>
 

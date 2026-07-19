@@ -4,7 +4,7 @@ export default function Skills() {
   return (
     <section id="skills" className="border-t border-white/10 bg-[#0B0F14] px-6 py-14">
       <div className="mx-auto max-w-3xl">
-        <p className="mb-6 text-s font-extrabold tracking-widest text-[#8593A6]">
+        <p className="mb-6 text-xl font-extrabold tracking-widest text-[#E7ECF2]">
           SKILLS
         </p>
 

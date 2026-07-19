@@ -7,12 +7,12 @@ export default function Project() {
     <section id="projects" className="border-t border-white/10 bg-[#0B0F14] px-6 py-14">
       <div className="mx-auto max-w-3xl">
         <div className="mb-6 flex items-baseline justify-between">
-          <p className="text-s font-extrabold tracking-widest text-[#8593A6]">
+          <p className="mb-6 text-xl font-extrabold tracking-widest text-[#E7ECF2]">
             PROJECTS
           </p>
           <Link
             href="/projects"
-            className="text-xs text-[#8593A6] underline underline-offset-2 hover:text-[#5EEAD4] transition-colors"
+            className="text-xs text-[#8593A6] hover:text-[#5EEAD4] transition-colors"
           >
             View all projects →
           </Link>
