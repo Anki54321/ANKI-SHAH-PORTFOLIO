@@ -51,7 +51,7 @@ export const experience = [
     org: "Datahub Nepal",
     orgUrl: "https://datahub.com.np",
     location: "Kathmandu, Nepal",
-    period: "Jul 2025 - Present",
+    period: "Jul 2025 - August 2026",
     current: true,
     points: [
       "Provisioned and configured virtual machines across multiple cloud platforms, building a working foundation in Docker containerization, backup/recovery, and DNS configuration.",
