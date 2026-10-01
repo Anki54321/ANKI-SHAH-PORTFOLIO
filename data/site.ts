@@ -19,6 +19,7 @@ export const profile = {
   status: {
     label: "online",
     detail: "currently automating, monitoring, and optimizing systems",
+    whatsappNumber = "14379676332";
   },
 };
 
