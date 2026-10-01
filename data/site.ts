@@ -7,7 +7,7 @@ export const profile = {
   role: "Cloud & DevOps Engineer",
   subrole: "System Administrator",
   // location: "Kathmandu, Nepal",
-  phone: "+977 986-3328668",
+  phone: "+1 (437) 967 6332",
   email: "ankishah019@gmail.com",
   github: "https://github.com/Anki54321",
   linkedin: "https://www.linkedin.com/in/anki-shah-68a456278",
