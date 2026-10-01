@@ -49,7 +49,7 @@ export default function Hero() {
           </a>
 
           <a
-            href={`https://wa.me/${whatsappNumber}`}
+            href={`https://wa.me/${profile.whatsappNumber}`}
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
