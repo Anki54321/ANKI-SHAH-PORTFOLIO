@@ -23,7 +23,7 @@ export default function Contact() {
             </a>
 
             <a
-              href={`https://wa.me/${whatsappNumber}`}
+              href={`https://wa.me/${profile.whatsappNumber}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center rounded-lg border border-white/15 px-3 py-1.5 text-xs font-semibold text-[#E7ECF2] transition-colors hover:bg-white/5"
